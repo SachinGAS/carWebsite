@@ -1,0 +1,54 @@
+@media only screen and(max-width:320px){
+    .navigation .navbar-toggle {
+        padding: 6px 4px;
+        margin-top: 10px;
+        margin-right: 24px;
+    }
+    .servicebar{
+        height: 225px;
+      }
+    .servimg{
+        width: 100%;
+    
+    }
+    .text-heading{
+        font-size: 20px;
+         margin-top: 10px;
+    }
+    .text-item{
+        text-align: left;
+    }
+    
+    .showroom {
+        width:100%;
+    }
+    .about{
+        width: 100%;
+    }
+    .aboutsection{
+        width: 100%;
+        display: block;
+    }
+    .img{
+        width: 275px;
+        margin: 0;
+        padding: 0;
+    }
+    .btnsubmit{
+        width:100%;
+    }
+    .feedback{
+        width: 320px;
+    }
+    
+    .footersection{
+        width: 320px;
+    }
+    .feedback-btn{
+        margin-left:220px ;
+    }
+       
+    .carousel {
+            width:100% ;
+        }
+    }  
